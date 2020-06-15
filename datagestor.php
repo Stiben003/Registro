@@ -11,6 +11,6 @@
 
 <script type="text/javascript">
     $(document).ready(function(){
-        $('#tablaGestordeLibros').load("gestor/tablagestor.php");
+        $('#tablaGestordeLibros').load("tablagestor.php");
     });
 </script>
