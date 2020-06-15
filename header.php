@@ -31,7 +31,7 @@
                         <a class="nav-link" href="tablagestor.php"><span class="fas fa-book-reader"></span> Administrar</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"> <span class="fas fa-file"></span> Reportes</a>
+                        <a class="nav-link" href="Stiben.php"> <span class="fas fa-file"></span> Reportes</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="cerrar.php"> <span class="fas fa-sign-out-alt"></span> Salir</a>

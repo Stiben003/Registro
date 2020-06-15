@@ -1,3 +1,4 @@
+<?php include "header.php" ?>
 <div class="row">
     <div class="col-sm-12">
         <div class="table-response">
@@ -28,9 +29,3 @@
         </div>
     </div>
 </div>
-
-<!--<script type="text/javascript">
-    (document).ready(function() {
-        $('#tablaGestorDataTable').dataTable();
-    });
-</script>-->
