@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-    <title>Gestor</title>
+    <title>Biblioteca Online</title>
     <link rel="stylesheet" type="text/css" href="librerias/bootstrap4/bootstrap.min.css">
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -11,7 +11,6 @@
 </head>
 
 <body>
-    <!-- Navigation -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
         <div class="container">
             <a class="navbar-brand" href="#">
@@ -23,7 +22,7 @@
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active">
-                        <a class="nav-link" href="#"> <span class="fas fa-home"></span> Inicio
+                        <a class="nav-link" href="header.php"> <span class="fas fa-home"></span> Inicio
                             <span class="sr-only">(current)</span>
                         </a>
                     </li>
@@ -41,9 +40,7 @@
         </div>
     </nav>
 
-    <!-- Page Content -->
     <div class="container">
         <h1 class="mt-4"></h1>
         <p></p>
     </div>
-    <!-- /.container -->

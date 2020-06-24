@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Login / Register Magtimus</title>
+    <title>Login / Register </title>
 
     <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 
@@ -17,7 +17,7 @@
         <div class="header">
             <div class="logo-title">
                 <img src="image/logo2.png" alt="">
-                <h2>Biblioteca Virtual</h2>
+                <h2>Biblioteca Online</h2>
             </div>
             <div class="menu">
                 <a href="login.php"><li class="module-login active">Login</li></a>
@@ -26,10 +26,10 @@
         </div>
 
         <form action="<?php echo htmlspecialchars($_SERVER['PHP_SELF']); ?>" method="post" class="form">
-            <div class="welcome-form"><h1>Bienvenido a </h1><h2> B . V . </h2></div>
+            <div class="welcome-form"><h1></h1><h2> Iniciar Sesión </h2></div>
             <div class="user line-input">
                 <label class="lnr lnr-user"></label>
-                <input type="text" placeholder="Nombre Usuario" name="usuario">
+                <input type="text" placeholder="Nombre de Usuario" name="usuario">
             </div>
             <div class="password line-input">
                 <label class="lnr lnr-lock"></label>
